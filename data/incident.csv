@@ -1,0 +1,25 @@
+﻿1,INC-2024-00001,1,SQL Injection,185.220.101.45,10.0.0.15,Critical,Resolved,Malicious SQL code injected through login form parameter,3,2024-01-10 03:22:00.000
+2,INC-2024-00002,1,Data Exfiltration,185.220.101.45,10.0.0.15,Critical,Resolved,Attacker dumped entire customer database table,3,2024-01-10 03:45:00.000
+3,INC-2024-00003,2,Phishing Email,192.168.50.100,0.0.0.0,High,Open,Bulk phishing emails sent from compromised mail server,4,2024-01-12 08:00:00.000
+4,INC-2024-00004,2,Credential Theft,192.168.50.100,0.0.0.0,High,Open,Stolen credentials being sold on dark web marketplace,4,2024-01-12 14:30:00.000
+5,INC-2024-00005,3,Ransomware,91.108.4.200,172.16.0.5,Critical,Investigating,WannaCry variant ransomware encrypting all server files,5,2024-01-13 02:15:00.000
+6,INC-2024-00006,3,Lateral Movement,91.108.4.200,172.16.0.0,Critical,Investigating,Ransomware spreading across internal network segments,5,2024-01-13 02:30:00.000
+7,INC-2024-00007,4,Unauthorized Access,10.10.10.55,192.168.1.100,High,Resolved,Insider accessed restricted database using admin credentials,6,2024-01-05 11:00:00.000
+8,INC-2024-00008,5,DDoS,Multiple,202.83.47.10,Medium,Resolved,Over 50000 requests per second hitting web server,7,2024-01-08 15:00:00.000
+9,INC-2024-00009,6,Data Breach,Unknown,10.20.30.40,Critical,Investigating,Customer CNIC and contact data found on Telegram channel,3,2024-01-15 09:00:00.000
+10,INC-2024-00010,7,Brute Force,45.33.32.156,203.128.12.5,High,Open,5000 failed login attempts detected in 10 minutes,4,2024-01-16 04:00:00.000
+11,INC-2024-00011,7,Account Lockout,45.33.32.156,203.128.12.5,Medium,Open,Multiple customer accounts locked due to brute force,4,2024-01-16 04:15:00.000
+12,INC-2024-00012,8,Trojan,Unknown,192.168.5.0,High,Investigating,Trojan horse detected on 15 government workstations,5,2024-01-17 10:00:00.000
+13,INC-2024-00013,9,Social Engineering,N/A,N/A,Medium,Open,Employee tricked into revealing VPN credentials over phone,6,2024-01-18 13:00:00.000
+14,INC-2024-00014,10,Cryptojacking,198.54.117.197,10.5.0.20,Low,Resolved,XMRig cryptocurrency miner found running on 8 servers,7,2024-01-03 08:00:00.000
+15,INC-2024-00015,11,Spear Phishing,Unknown,N/A,Critical,Investigating,Email with malicious PDF attachment opened by staff member,8,2024-01-19 11:30:00.000
+16,INC-2024-00016,11,Malware Execution,Unknown,10.30.0.5,Critical,Investigating,Malicious macro in PDF executed downloading backdoor,8,2024-01-19 11:35:00.000
+17,INC-2024-00017,12,Zero Day Exploit,77.88.55.80,10.0.1.5,Critical,Open,Unknown exploit used against Apache 2.4 server,9,2024-01-20 00:30:00.000
+18,INC-2024-00018,13,Insider Threat,10.10.5.55,N/A,High,Investigating,Employee copying files to USB drive after hours,3,2024-01-21 19:00:00.000
+19,INC-2024-00019,14,Botnet,Multiple,N/A,Medium,Open,2000 infected machines sending spam emails through ISP,4,2024-01-22 07:00:00.000
+20,INC-2024-00020,15,Identity Fraud,N/A,N/A,High,Investigating,Fake CNICs used to open 50 fraudulent bank accounts,5,2024-01-23 10:00:00.000
+21,INC-2024-00021,1,Port Scan,185.220.101.45,10.0.0.0,Medium,Resolved,Port scan conducted before SQL injection attack,3,2024-01-09 23:00:00.000
+22,INC-2024-00022,6,Dark Web Listing,Unknown,N/A,High,Investigating,Company data listed for sale on dark web forum,3,2024-01-16 08:00:00.000
+23,INC-2024-00023,3,Backup Deletion,91.108.4.200,172.16.0.5,Critical,Investigating,Ransomware deleted all backup files before encrypting,5,2024-01-13 03:00:00.000
+24,INC-2024-00024,8,Keylogger,Unknown,192.168.5.10,High,Investigating,Keylogger software recording all keystrokes on infected PCs,5,2024-01-17 12:00:00.000
+25,INC-2024-00025,12,Privilege Escalation,77.88.55.80,10.0.1.5,Critical,Open,Attacker gained root access after exploiting Apache,9,2024-01-20 01:00:00.000

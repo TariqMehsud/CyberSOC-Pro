@@ -1,0 +1,15 @@
+﻿1,ALT-2024-00001,1,1,Critical Severity Incident,CRITICAL: SQL Injection on HBL Bank detected. Immediate action required.,1,2026-05-15 19:54:47.857,1
+2,ALT-2024-00002,5,3,Critical Severity Incident,CRITICAL: Ransomware on FBR server. Isolate immediately!,1,2026-05-15 19:54:47.857,2
+3,ALT-2024-00003,3,2,New Incident Logged,HIGH: Phishing campaign targeting Jazz customers. 500 emails sent.,1,2026-05-15 19:54:47.857,1
+4,ALT-2024-00004,9,6,Data Breach Detected,CRITICAL: Telenor customer data found on dark web.,0,2026-05-15 19:54:47.857,NULL
+5,ALT-2024-00005,10,7,Brute Force Detected,HIGH: Brute force on MCB banking. 5000 attempts in 10 minutes.,1,2026-05-15 19:54:47.857,4
+6,ALT-2024-00006,15,11,Critical Severity Incident,CRITICAL: APT spear phishing on minister office. State sponsored.,1,2026-05-15 19:54:47.857,1
+7,ALT-2024-00007,17,12,Zero Day Exploit,CRITICAL: Zero day exploit on Apache server. Root access gained.,0,2026-05-15 19:54:47.857,NULL
+8,ALT-2024-00008,7,4,Insider Threat,HIGH: Insider threat at NADRA. Employee accessed restricted database.,1,2026-05-15 19:54:47.857,1
+9,ALT-2024-00009,12,8,Malware Detected,HIGH: Trojan on 15 government computers. USB spread confirmed.,1,2026-05-15 19:54:47.857,2
+10,ALT-2024-00010,14,10,Cryptomining Detected,LOW: Cryptojacking on university servers. Remove immediately.,1,2026-05-15 19:54:47.857,1
+11,ALT-2024-00011,18,13,Insider Threat,HIGH: Bank employee copying data to USB confirmed on CCTV.,0,2026-05-15 19:54:47.857,NULL
+12,ALT-2024-00012,19,14,Botnet Activity,MEDIUM: Botnet on ISP network. 2000 infected machines.,0,2026-05-15 19:54:47.857,NULL
+13,ALT-2024-00013,20,15,Identity Fraud,HIGH: Identity theft ring. 50 fraudulent accounts opened.,0,2026-05-15 19:54:47.857,NULL
+14,ALT-2024-00014,16,11,Malware Execution,CRITICAL: Backdoor malware executed in minister office.,0,2026-05-15 19:54:47.857,NULL
+15,ALT-2024-00015,25,12,Privilege Escalation,CRITICAL: Attacker got root access after Apache exploit.,0,2026-05-15 19:54:47.857,NULL

@@ -1,0 +1,15 @@
+﻿1,CASE-2024-00001,SQL Injection Attack on HBL Bank,Cybercrime,Investigating,Critical,2024-01-10,NULL,3,1,Attacker exploited login form to access customer records
+2,CASE-2024-00002,Phishing Campaign Targeting Jazz Users,Fraud,Open,High,2024-01-12,NULL,4,1,Mass phishing emails sent to Jazz customers stealing credentials
+3,CASE-2024-00003,Ransomware Attack on FBR Server,Malware,Investigating,Critical,2024-01-13,NULL,5,2,FBR tax system encrypted by ransomware demanding Bitcoin payment
+4,CASE-2024-00004,Unauthorized Access to NADRA Database,Cybercrime,Closed,High,2024-01-05,2024-01-20,6,1,Insider threat gained unauthorized access to citizen records
+5,CASE-2024-00005,DDoS Attack on Punjab Police Website,Cybercrime,Closed,Medium,2024-01-08,2024-01-15,7,2,Distributed denial of service attack took website offline for 6 hours
+6,CASE-2024-00006,Data Breach at Telenor Pakistan,Fraud,Investigating,Critical,2024-01-15,NULL,3,1,Customer data including CNICs leaked on dark web forum
+7,CASE-2024-00007,Brute Force Attack on MCB Internet Banking,Cybercrime,Closed,High,2024-01-16,2026-05-16,4,2,Automated tool attempting thousands of login combinations per minute
+8,CASE-2024-00008,Malware Infection on Government Computers,Malware,Investigating,High,2024-01-17,NULL,5,1,Trojan horse malware spread through USB drives in government offices
+9,CASE-2024-00009,Social Engineering Attack on PTCL,Fraud,Open,Medium,2024-01-18,NULL,6,2,Attacker impersonated IT support to steal employee credentials
+10,CASE-2024-00010,Cryptojacking on University Servers,Cybercrime,Closed,Low,2024-01-03,2024-01-25,7,1,Unauthorized cryptocurrency mining software found on university servers
+11,CASE-2024-00011,Spear Phishing Attack on Minister Office,Fraud,Investigating,Critical,2024-01-19,NULL,8,2,Targeted phishing email sent to minister office staff with malicious attachment
+12,CASE-2024-00012,Zero Day Exploit on Apache Server,Cybercrime,Open,Critical,2024-01-20,NULL,9,1,Unknown vulnerability exploited in Apache web server version 2.4
+13,CASE-2024-00013,Insider Data Theft at Meezan Bank,Fraud,Investigating,High,2024-01-21,NULL,3,2,Bank employee copying customer financial data to personal USB
+14,CASE-2024-00014,Botnet Activity Detected on ISP Network,Cybercrime,Open,Medium,2024-01-22,NULL,4,1,Large number of infected machines sending spam from ISP network
+15,CASE-2024-00015,Identity Theft Ring Discovered,Fraud,Investigating,High,2024-01-23,NULL,5,2,Organized group using stolen CNICs to open fake bank accounts

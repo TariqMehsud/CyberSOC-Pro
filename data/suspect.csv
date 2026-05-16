@@ -1,0 +1,15 @@
+﻿1,SUS-2024-00001,1,Unknown Attacker,185.220.101.45,Tor Browser on Linux Kali,95,IP traced to Tor exit node in Germany. Highly sophisticated attack.,3
+2,SUS-2024-00002,2,Phishing Group,192.168.50.100,Unknown — spoofed headers,80,Organized phishing group. Similar attacks reported in UAE and Saudi Arabia.,4
+3,SUS-2024-00003,3,RansomGroup47,91.108.4.200,Windows 10 — VPN detected,90,Known ransomware group. Previously attacked hospitals in Europe.,5
+4,SUS-2024-00004,4,Ahmed Raza,10.10.10.55,Windows 11 — Office PC,85,Bank employee with admin access. Found with unauthorized USB drive.,6
+5,SUS-2024-00005,5,Unknown Group,Multiple IPs,Botnet — multiple countries,70,DDoS attack launched from botnet of 10000 infected machines.,7
+6,SUS-2024-00006,6,Unknown,Unknown,Unknown — data already leaked,75,Data breach source still under investigation.,3
+7,SUS-2024-00007,7,AutoBrute Tool,45.33.32.156,Automated script on Linux,65,Automated brute force tool. Linked to previous bank attacks.,4
+8,SUS-2024-00008,8,Unknown Insider,10.10.5.55,Government PC Windows 10,72,Malware spread via USB. Insider involvement suspected.,5
+9,SUS-2024-00009,9,Unknown Caller,N/A,Phone call — untraceable,60,Social engineering via phone. Voice disguised.,6
+10,SUS-2024-00010,10,CryptoMiner Script,198.54.117.197,Linux server — automated,45,Cryptojacking script deployed through vulnerable WordPress plugin.,7
+11,SUS-2024-00011,11,APT Group,Unknown,Advanced persistent threat,98,Risk score updated after new evidence found,8
+12,SUS-2024-00012,12,Zero Day Seller,77.88.55.80,Unknown — heavily encrypted,88,Suspected zero day exploit purchased from dark web.,9
+13,SUS-2024-00013,13,Bilal Nawaz,10.10.5.55,Bank PC Windows 10,82,Bank employee. CCTV confirms USB usage after business hours.,3
+14,SUS-2024-00014,14,Botnet Operator,Multiple,Command and control server,68,Botnet operator controlling machines through IRC channel.,4
+15,SUS-2024-00015,15,Identity Theft Ring,N/A,Multiple phones and laptops,78,Organized criminal group. 5 members identified. 2 arrested.,5

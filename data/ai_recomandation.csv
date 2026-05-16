@@ -1,0 +1,14 @@
+﻿1,REC-2024-00001,1,1,Block IP address 185.220.101.45 at firewall immediately,Critical,Accepted,3,2024-01-10 04:00:00.000
+2,REC-2024-00002,1,1,Implement parameterized queries to prevent SQL injection,Critical,Accepted,3,2024-01-10 04:05:00.000
+3,REC-2024-00003,1,1,Reset all database user passwords immediately,High,Accepted,1,2024-01-10 05:00:00.000
+4,REC-2024-00004,2,2,Report phishing domain to registrar for immediate takedown,High,Accepted,4,2024-01-12 09:00:00.000
+5,REC-2024-00005,2,2,Send security alert to all Jazz customers about phishing,High,Pending,NULL,NULL
+6,REC-2024-00006,3,3,Isolate all infected FBR servers from network immediately,Critical,Accepted,5,2024-01-13 03:00:00.000
+7,REC-2024-00007,3,3,Restore FBR systems from last clean backup,Critical,Accepted,2,2024-01-13 04:00:00.000
+8,REC-2024-00008,3,3,Patch MS17-010 vulnerability on all Windows servers,Critical,Pending,NULL,NULL
+9,REC-2024-00009,6,7,Implement CAPTCHA on MCB internet banking login page,High,Accepted,4,2024-01-16 05:00:00.000
+10,REC-2024-00010,6,7,Enable account lockout after 5 failed login attempts,High,Accepted,4,2024-01-16 05:30:00.000
+11,REC-2024-00011,8,11,Isolate minister office systems from main network,Critical,Accepted,8,2024-01-19 12:00:00.000
+12,REC-2024-00012,9,12,Take vulnerable Apache server offline immediately,Critical,Accepted,9,2024-01-20 01:30:00.000
+14,REC-2024-00014,12,13,Suspend employee Bilal Nawaz and revoke all system access,Critical,Accepted,3,2024-01-21 20:00:00.000
+15,REC-2024-00015,12,13,File FIR with FIA Cybercrime Wing under PECA 2016,High,Accepted,1,2024-01-21 21:00:00.000

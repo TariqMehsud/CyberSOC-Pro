@@ -1,0 +1,20 @@
+﻿1,CST-2024-00001,1,3,Collected,2026-05-15 19:54:47.790,Collected from Apache server log directory
+2,CST-2024-00002,1,3,Analyzed,2026-05-15 19:54:47.790,Log file analyzed for injection patterns
+3,CST-2024-00003,1,5,Verified,2026-05-15 19:54:47.790,Second analyst verified log integrity using hash
+4,CST-2024-00004,2,3,Collected,2026-05-15 19:54:47.790,Screenshot taken from attacker session replay
+5,CST-2024-00005,3,4,Collected,2026-05-15 19:54:47.790,Phishing email collected from victim mailbox
+6,CST-2024-00006,4,5,Collected,2026-05-15 19:54:47.790,Malware binary isolated in sandbox environment
+7,CST-2024-00007,4,5,Analyzed,2026-05-15 19:54:47.790,Malware reverse engineered — WannaCry confirmed
+8,CST-2024-00008,4,2,Stored,2026-05-15 19:54:47.790,Malware sample stored in secure evidence vault
+9,CST-2024-00009,5,5,Collected,2026-05-15 19:54:47.790,Network capture taken during active ransomware
+10,CST-2024-00010,6,6,Collected,2026-05-15 19:54:47.790,Database logs exported from NADRA system
+11,CST-2024-00011,7,7,Collected,2026-05-15 19:54:47.790,Server logs downloaded from Punjab Police server
+12,CST-2024-00012,8,3,Collected,2026-05-15 19:54:47.790,Dark web screenshot taken by analyst
+13,CST-2024-00013,9,4,Collected,2026-05-15 19:54:47.790,Firewall logs exported from MCB firewall system
+14,CST-2024-00014,10,5,Collected,2026-05-15 19:54:47.790,Trojan executable quarantined from infected PC
+15,CST-2024-00015,10,5,Analyzed,2026-05-15 19:54:47.790,Trojan analyzed in isolated sandbox environment
+16,CST-2024-00016,13,8,Collected,2026-05-15 19:54:47.790,Email header extracted from victim email client
+17,CST-2024-00017,15,9,Collected,2026-05-15 19:54:47.790,Exploit code dumped from server RAM
+18,CST-2024-00018,16,3,Collected,2026-05-15 19:54:47.790,CCTV footage downloaded from bank security system
+19,CST-2024-00019,17,3,Collected,2026-05-15 19:54:47.790,USB forensic image created using FTK Imager tool
+20,CST-2024-00020,19,5,Collected,2026-05-15 19:54:47.790,Bank documents scanned and digitized as evidence
